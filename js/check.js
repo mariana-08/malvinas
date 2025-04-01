@@ -1,0 +1,1 @@
+var checkBoxValue = $('.form-check-input').is(':checked')?$('.form-check-input').val():false

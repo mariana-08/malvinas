@@ -1,0 +1,442 @@
+    #page-top #mainNav .container #navbarResponsive .navbar-nav.ml-auto .nav-item {
+        font-size: 16px;
+    }
+
+    #page-top #about #accordion .panel.panel-default #collapseOne .panel-body p {
+        font-size: 16px;
+        font-color: #999999;
+    }
+
+    #page-top #about #accordion .panel.panel-default #collapseThree .panel-body p {
+        font-size: 16px;
+        font-color: #999999;
+    }
+
+    body,
+    td,
+    th {
+        font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #666;
+    }
+
+
+
+
+    .container {
+        width: 100%;
+        padding-right: 28px;
+        padding-left: 28px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+.bajada{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+    .panel-default > .panel-heading {
+        color: white;
+        background-color: #74B1AA;
+        border-color: #7CBAE0;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+.panel-default1 > .panel-heading1 {
+        color: white;
+        background-color: #7CBAE0;
+        border-color: #7CBAE0;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    ul {
+        text-align: center;
+    }
+
+    .iosfa-logo-footer {
+        max-width: 250px;
+        margin-bottom: 25px;
+    }
+
+    .temas {
+        color: #6a7e9d;
+    }
+
+    .juego-desktop {
+        display: block;
+        width: 100%;
+        height: 714px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .juego-mobile {
+        display: none;
+        width: 100%;
+        height: 564px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .caja-contenedora {
+        width: 100%;
+        height: auto;
+    }
+
+    .logo-iosfa {
+        float: left;
+        width: 18%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 0;
+        padding-left: 1%;
+        padding-top: 6%;
+        padding-bottom: 6%;
+    }
+
+    .fondo {
+        background-image: url(../img/fondo.svg);
+    }
+
+    .incon {
+        width: 5%;
+        height: auto;
+    }
+
+    .caja {
+        margin-top: 15px;
+        border-radius: 10px 10px 10px 10px;
+        -moz-border-radius: 10px 10px 10px 10px;
+        -webkit-border-radius: 10px 10px 10px 10px;
+        padding: 20px;
+        background: #fff;
+        border: 1px solid #b8b8b8;
+    }
+
+    .tit {
+        text-align: center;
+    }
+
+    .rrss {
+        width: 25px;
+        height: 25px;
+    }
+
+    .md-logo {
+        max-width: 200px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    #vacum {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    #requisitos {
+        margin-top: 0;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    .header-img {
+        float: left;
+        width: 72%;
+        height: auto;
+    }
+
+    .inforequisito {
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-bottom: 10%;
+    }
+
+    .inforequisito1 {
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-bottom: 10%;
+    }
+
+    .persona {
+        z-index: 1;
+    }
+
+    .persona1 {
+        width: 30%;
+        float: left;
+        height: auto;
+        margin-top: -20%;
+    }
+
+    .infopersona {
+        background: rgb(116, 177, 170);
+        background: linear-gradient(90deg, rgba(116, 177, 170, 1) 0%, rgba(116, 177, 170, 1) 84%, rgba(255, 255, 255, 0) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 70px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .infopersona1 {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(75, 131, 158, 0.7791491596638656) 16%, rgba(75, 131, 158, 1) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 70px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .infopersona2 {
+        background: rgb(124, 186, 224);
+        background: linear-gradient(90deg, rgba(124, 186, 224, 1) 0%, rgba(124, 186, 224, 1) 84%, rgba(255, 255, 255, 0) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 100px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .infopersona3 {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(116, 177, 170, 1) 16%, rgba(116, 177, 170, 1) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 100px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .infopersona4 {
+        background: rgb(75, 131, 158);
+        background: linear-gradient(90deg, rgba(75, 131, 158, 1) 0%, rgba(75, 131, 158, 1) 84%, rgba(255, 255, 255, 0) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 100px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .infopersona5 {
+        background: rgb(255, 255, 255);
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(124, 186, 224, 1) 16%, rgba(124, 186, 224, 1) 100%);
+        height: auto;
+        color: white;
+        text-align: center;
+        margin-top: 100px;
+        padding-top: 20px;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px 20px 15px 20px;
+    }
+
+    .caja-contenedora-desktop {
+        display: block;
+    }
+
+    .caja-contenedora-mobile {
+        display: none;
+    }
+
+    .texto-invisible {
+        display: none !important;
+    }
+
+    .espaciado-v-20 {
+        padding: 20px 0px;
+    }
+
+    .panel-body {
+        padding-bottom: 20px;
+    }
+
+    .acordeon {
+        color: white;
+        outline: 0;
+    }
+
+    .acordeon:hover {
+        color: white;
+        outline: 0;
+    }
+
+    .acordeon:active {
+        color: white;
+        outline: 0;
+    }
+
+    .acordeon:focus {
+        color: white;
+        outline: 0;
+    }
+
+    @media screen and (max-width:760px) {
+        .caja-contenedora-desktop {
+            display: none;
+        }
+
+        .caja-contenedora-mobile {
+            display: block;
+        }
+
+        .iosfa-logo-footer {
+            max-width: 200px;
+            margin-bottom: 25px;
+        }
+
+        .juego-desktop {
+            display: none;
+        }
+
+        .juego-mobile {
+            display: block;
+        }
+
+
+        .infopersona {
+            background: #74B1AA;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -5px;
+            margin-bottom: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .infopersona1 {
+            background: #4B839E;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -5px;
+            margin-bottom: 20px;
+            padding-top: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .infopersona2 {
+            background: #7CBAE0;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -5px;
+            margin-bottom: -20px;
+            padding-top: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .infopersona3 {
+            background: #74B1AA;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -18px;
+            margin-bottom: 20px;
+            padding-top: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .infopersona4 {
+            background: #4B839E;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -5px;
+            margin-bottom: 20px;
+            padding-top: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+        .infopersona5 {
+            background: #7CBAE0;
+            height: auto;
+            color: white;
+            text-align: center;
+            margin-top: -5px;
+            margin-bottom: 20px;
+            padding-top: 20px;
+            font-weight: 700;
+            font-size: 18px;
+            padding: 15px 20px 15px 20px;
+        }
+
+    }
+
+    @media screen and (max-width:575px) {
+        .enlace-top {
+            padding-top: 315px !important;
+        }
+
+        .enlace-invisible {
+            display: none !important;
+        }
+
+        .reposicionar-fondo {
+            background-position-y: 10px !important;
+        }
+
+        .iosfa-logo-footer {
+            max-width: 150px;
+            margin-bottom: 25px;
+        }
+    }
+
+    //contenedor { padding-left:10%; margin-left:5%; } 287*303
+
+
+    /* Safari 4.0 - 8.0 */
+    @-webkit-keyframes micorazon {
+        0% {
+            background-size: auto;
+        }
+
+        25% {
+            background-size: 297px auto;
+        }
+
+        50% {
+            background-size: auto;
+        }
+
+        100% {
+            background-size: auto;
+        }
+
+    }
+
+    @media screen and (max-width:1200px) {}

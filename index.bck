@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Antigripal - Si te cuidas, nos cuidas a todos</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+	
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+	<style type="text/css">
+	
+    #page-top #mainNav .container #navbarResponsive .navbar-nav.ml-auto .nav-item {
+	font-size: 16px;
+}
+    #page-top #about #accordion .panel.panel-default #collapseOne .panel-body p {
+	font-size: 16px; font-color:#999999;
+}
+#page-top #about #accordion .panel.panel-default #collapseThree .panel-body p {
+	font-size: 16px; font-color:#999999;
+}
+    body,td,th {
+	font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #666;
+}
+    .temas {
+	color: #6a7e9d;
+}
+
+ .cent{ padding-left::50px;
+  		margin-left:55px; }
+		
+.texto-invisible {display:none !important;}
+.espaciado-v-20 {padding:20px 0px;}
+		
+@media (max-width:575px){
+	.enlace-top{padding-top:315px !important;}
+	.enlace-invisible {display:none !important;}
+	.reposicionar-fondo {background-position-y:10px !important;}
+	}
+
+<!--.//contenedor { padding-left:10%; margin-left:5%; } 287*303-->
+
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes micorazon {
+    0%   {background-size: auto;}
+    25%  {background-size: 297px auto;}
+    50%  {background-size: auto;}
+	100%  {background-size: auto;}
+    
+}
+
+	hr{
+	background-color: #cae2ed;}
+	
+	 
+    </style>
+    
+ <!-- Este script permite mantener la posición de la página cuando se refresca ***************** -->
+<script>
+window.onload=function(){
+var pos=window.name || 0;
+window.scrollTo(0,pos);
+}
+window.onunload=function(){
+window.name=self.pageYOffset || (document.documentElement.scrollTop+document.body.scrollTop);
+}
+</script>
+  <!-- Se cierra el Script -->   
+    
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112857856-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112857856-1');
+</script>   
+    
+    
+    
+  </head>
+
+ <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <div class="iosfa">
+           <img src="img/logo-iosfa.png" width="124" height="100" alt="imagen del logo IOSFA"/>
+		</div>
+        </a>
+          
+      
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        
+         <div class="collapse navbar-collapse "  id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+         <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#campana" >"SI TE VACUNAS ...." </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#vacum">VACUNATORIOS</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#requisitos">REQUISITOS</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#pre-frec">PREGUNTAS FRECUENTES</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#consultas">CONSULTAS</a>
+            </li>     
+          </ul>
+        </div> 
+      </div>
+    </nav>
+    
+
+    <!-- Header -->
+     <header  class="masthead" >
+     <p><br/></p>
+      <div  class="container">
+      <br/>
+      <img class="img-fluid" src="img/header-antigripal.jpg" width="1200" height="600" alt="Imagen de header de Campaña Antigripal"/> 
+       </div>
+      
+      
+    </header>  
+    
+   
+    <!-- Sabe más -->
+ <a name="campana">  <section id="campaña"> </a>
+     <div  class="container">
+	  <h3 class="text-center" >“Si te vacunás, nos cuidás a todos”  </h3> <br/>
+      <div class="row">
+     		
+            <p>Para empezar el invierno bien protegidos y cuidarnos entre todos,  el 22 de abril comienza la Campaña de Vacunación Antigripal 2019, la cual se    extenderá hasta el 31 de mayo.   <br/>
+
+Podrán vacunarse con 100% de cobertura todos los afiliados mayores de 65 años, embarazadas (en cualquier trimestre de gestación), mamás de bebés de hasta 10 días y que no se hayan vacunado durante el embarazo, niños de 6 a 24 meses de edad, personas entre los 2 años y hasta los 64 años inclusive con factor de riesgo.  <br/>
+
+Deberán acercarse a los vacunatorios (link) establecidos para la campaña del 22 de abril al 31 de mayo inclusive. </p>
+   	 </div>
+      </div>      
+    </section>
+    
+    
+    
+
+   <!-- section about -->
+    <section id="vacum" style="margin-top:0; background:#f4f4f4" >
+     <div class="container">
+	  <h3 class="text-center" >Vacunatorios</h3> <br/>
+      <div class="row">
+     
+     <?php
+
+			
+ if (!isset($_POST['zona']) or $_POST['zona'] == 'seleccionarZ') {
+    ?>
+    
+
+
+<form action="#vacun" method="post">
+	<select name="zona">
+		<option value="seleccionarZ" selected">Seleccionar Zona</option>
+		<option value="caba">Ciudad de Buenos Aires</option> 
+		<option value="pba">Provincia de Buenos Aires</option>
+		<option value="idp">Interior del Pais</option>
+	</select>
+	<br><br>
+	<p><input type="submit" value="Consultar"/></p>
+
+</form>
+
+ 
+<?php
+}
+else
+{	
+	
+			
+			
+	if ($_POST['zona'] == 'seleccionarZ') {
+		echo 'Ingresar una zona'  
+		
+?> 
+    
+
+
+		<!------------------------------ CABA ----------------------------------->
+		 
+		<?php
+		}
+		else
+		{	
+			if ($_POST['zona'] == 'caba') {
+		?> 
+		   
+
+					 <div class="col-md-4 cajitas" >
+					  <div class="team-info">        
+					  <p class="vacunatorio"><strong>Hospital Naval Pedro Mallo</strong><br/>
+						Patricias Argentinas 351.(Planta baja)</br>
+						Tel.: 4130-5300 / 4103-5371 <br/>
+                         Lu. a vi. 8 a 13h </p> </br>         
+					   </div>
+					  </div>
+					  
+					   <div class="col-md-4 cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Círculo de Oficiales de Mar</strong><br/>
+						Sarmiento 1867 <br/>
+					   Tel.: 5254-6100<br/>
+                         Lu. a vi. 9 a 16h </p><br/>
+					   </div>
+					   </div>
+						
+					  <div class="col-md-4 cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia Jardin</strong><br/>
+					   Av. Santa Fe 3350 <br/>
+					   Tel.: 4825-8846 <br/>
+                        Lu. a vi. 9 a 18h </p><br/>
+					   </div>
+					  </div>
+					   <div class="col-md-4 cajitas">
+						 <div class="team-info">
+						   <p class="vacunatorio"><strong>Farma 10 Urquiza </strong><br/>
+							 Av. Olazabal 5562 <br/>
+							 Tel.: 4524-1300<br/>
+							 Lu. a vi. 10 a 13h </p>
+						   <br/>
+						 </div>
+					   </div>
+                        <div class="col-md-4 cajitas">
+						 <div class="team-info">
+						   <p class="vacunatorio"><strong>Farmacia Belgrano II</strong><br/>
+							 Juramento 2741 <br/>
+							 Tel.: 4788-1679<br/>
+							 Lu. a vi. 9 a 17h </p>
+						   <br/>
+						 </div>
+					   </div>
+					 
+					   <div class="col-md-4 cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA Hosp. Aeronáutico Central</strong><br/>
+					  Ventura de la Vega 3697 <br/>
+					   Tel.: 5168-7100 int 63144<br>
+						Lun a Vie de 8 a 14:30h </p> <br/>
+					   </div>
+					   </div>
+					  <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Sanidad de Prefectura</strong><br/>
+						Puerto Madero Darsena "F"<br/>
+					   Tel.: 4312-6107(Int:5126)<br/>
+                       Lun a Vie de 8 a 13h </p><br/>
+					   </div>
+					  </div>
+                      <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Hogar Stella Maris</strong><br/>						
+					   Tel.: 4612-2200<br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA San José </strong><br/>	
+                       San José 321 <br/>					
+					   Tel.: 2152-3810 <br/>
+                        Lun a Vie de 8 a 14h </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      
+                       <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA Matienzo </strong><br/>	
+                       Tte. Benjamín Matienzo 1830  <br/>					
+					   Tel.: 4576-5746/47 <br/>
+                        </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      
+                       <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA San José </strong><br/>	
+                       San José 321 <br/>					
+					   Tel.: 2152-3810 <br/>
+                        Lun a Vie de 8 a 14h </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      
+                       <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA Larrea </strong><br/>	
+                       Larrea 552 <br/>					
+					   Tel.: 4964-1889 <br/>
+                        Lun a Vie de 8 a 16h </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      
+                      <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA Pringles </strong><br/>	
+                       Av. Rivadavia 4299 <br/>					
+					   Tel.: 4981-4433 <br/>
+                        Lun a Vie de 7:30 a 18:30h </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      
+                       <div class="col-md-4  cajitas">
+					   <div class="team-info">
+					   <p class="vacunatorio"><strong>Farmacia IOSFA Cóndor </strong><br/>	
+                       Av. de los Inmigrantes 2509 <br/>					
+					   Tel.: 4315-9327 <br/>
+                        Lun a Vie de 8 a 14h </p><br/>
+                      </p><br/>
+					   </div>
+					  </div>
+                      					   
+					</div> 
+					
+					<form>
+<div class="col-md-12" >
+  <input type="button" class="volver"  value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+  
+ </form>
+
+		<!------------------------------ PROVINCIA DE BUENOS AIRES ------------------------------->
+		<?php
+		}
+		else if ( $_POST['zona'] == 'pba' ) {
+		?>
+			
+		<br>
+
+		
+
+		<br><br>
+		<form action="#vacun"  method="post">
+		<input type="radio" name="zona" value="zarate">Zarate<br>
+		<input type="radio" name="zona" value="gban">Gran Buenos Aires Norte<br>
+		<input type="radio" name="zona" value="gbao">Gran Buenos Aires Oeste<br>
+		<input type="radio" name="zona" value="gbas">Gran Buenos Aires Sur<br>
+		<input type="radio" name="zona" value="laPlata">La Plata<br>
+		<input type="radio" name="zona" value="tandil">Tandil<br>
+		<input type="radio" name="zona" value="marDelPlata">Mar del Plata<br>
+		<input type="radio" name="zona" value="puertoBelgrano">Pto Belgrano y B. Blanca<br><br>
+		
+	<p><input type="submit" value="Consultar"/></p>
+	
+  <div align="center" >
+  <input type="button" class="volver"  value="Volver" name="Back2" onClick="history.back()" />
+	</div>
+ </form>
+
+ 
+			<?php
+		}
+		else if($_POST['zona'] == "zarate") {
+			?>
+			
+							   
+				<div class="col-md-4 ">
+				<div class="team-info">
+				<p class="vacunatorio"><strong>Farmacia Villa fox </strong><br/>
+				Justo Lima 1565 (Zarate) <br/>
+				Tel.: (03487)437798 <br/>
+				Lu a Vi de 9 a 11h </p> <br/>  
+				</div>
+				</div>
+                   
+				<div class="col-md-4 ">
+				<div class="team-info">
+				<p class="vacunatorio"><strong>Farmacia Cr Salud </strong><br/>
+				Sarmiento 540(Zarate) <br/>
+				Tel.: (03487)440213<br/>
+                Lu a Vi de 9 a 11h</p> <br/>  
+				</div>
+				</div>
+	<form>
+<div class="col-md-12">
+  <input type="button" class="volver"  value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+			
+			<?php
+		}
+		else if($_POST['zona'] == "gban") {
+			?>
+			
+			
+				  <div class="col-md-3 cajitas" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Farmacia Jks</strong><br/>
+				   Av. Alvear 602. (Don Torcuato)<br/>
+				   Tel.: 4748-1020<br/>
+				   Lu a Vie 8:30 a 20:30 hs.<br/>
+					Sab 9 a 13hs.<br>
+				   </p> <br/>         
+				   </div>
+				   </div>
+				   <div class="col-md-3  cajitas">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia del Pilar</strong><br/>
+					Victor Vergani 873 (Pilar) <br/>
+				   Tel.: (0230)-428630 <br/>
+				   Lu a sab 9 a 20h </p><br/>
+				   </div>
+				   </div>
+				   <div class="col-md-3 cajitas">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Selma Farmacéutica</strong><br/>
+				   Maipu 2440 (Olivos) <br/>
+				   Tel.: 4897-1067<br/>
+				   Lu a Vie 14:30 a 20:30h</p><br/>
+				   </div>
+				   </div>
+				   <div class="col-md-3 cajitas">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Walker</strong><br/>
+				   Martin y Omar 487 (San Isidro) <br/>
+				   Tel.: 4513-0290 <br/>
+				   Lu a Vie 16 a 20:30h</p><br/>
+				   </div>
+				   </div>
+				   					<form>
+<div class="col-md-12">
+  <input type="button"  class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+			
+					<?php
+		}
+		else if($_POST['zona'] == "gbao") {
+			?>
+			
+			
+				  <div class="col-md-3" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Hospital Militar Campo de Mayo</strong><br/>
+				   Av. Ricchieri s/n<br/>
+				   Tel.: 4666-2960 <br/>
+                   Lu a Vie 7 a 15h </p><br/>         
+				   </div>
+				   </div>
+
+				  <div class="col-md-3" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Farmacia Central Morón</strong><br/>
+				   Av. Rivadavia 18161.(Morón)<br/>
+				   Tel.: 4483-4747<br/>
+                   Lu a Sab 13 a 20h</p> <br/>         
+				   </div>
+				   </div>
+				   
+				   <div class="col-md-3 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA El Palomar (CAP)</strong><br/>
+				   Matienzo e Itacumbú s/n <br/>
+				   Tel.: 4317-6000 int 21238, 21222
+				   <br>
+				   Jue y Vie 8 a 14h </p>
+				   <br/>
+				   </div>
+				  </div>
+				   
+				   <div class="col-md-3">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Central Oeste Ramos</strong><br/>
+					Av. de Mayo 899 (Ramos Mejia) <br/>
+				   Tel.: 4658-4909 <br>
+				   Jue y Vie 8:30 a 21h </p><br/>
+				   </div>
+				   </div>
+				  
+				    
+<form>
+<div class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+								<?php
+		}
+		else if($_POST['zona'] == "gbas") {
+			?>
+			
+			
+		 		  <div class="col-md-2" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Farmacia Tallarico</strong><br/>
+				   Av. Triunvirato 1654 (Quilmes)<br/>
+				   Tel.: 4280-6957 <br/>
+				   Lu a Vie 9 a 18h / Sab 9 a 12h </p> <br/>         
+				   </div>
+				   </div>
+				   <div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Lulay </strong><br/>
+				   Av. Eva Peron 498 (Temperley) <br/>
+				   Tel.: 4244-6014  <br/>
+				   Lu a Vie 9 a 13h</p> <br/>  
+				   </div>
+				   </div>
+				   
+				   
+<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+					<?php
+		}
+		else if($_POST['zona'] == "laPlata") {
+			?>
+		
+			
+				 					<div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Baldo</strong><br/>
+				   Diag. 80 Nº 717 esq. 45 (La Plata) <br/>
+				   Tel.: (0221)4213607 <br/>
+				   Lu a Vi De 9 a 12hs. </p> <br/>  
+				   </div>
+				   </div>
+				   
+				   <div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Sarti</strong><br/>
+				   Calle 38 Nº 751 (La Plata) <br/>
+				   Tel.: (0221)4823296 <br/>
+				   Lu a Vi de 8:30 a 16:30hs /Sab 9 a 14hs </p> <br/>  
+				   </div>
+				  </div>
+				   <div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia 7 y 33</strong><br/>
+				   Calle Farmacia 7 y 33 (La Plata) <br/>
+				   Tel.: (0221)4257449 <br/>
+				   Lu a Vi de 8:30 a 16:30hs /Sab 9 a 14hs </p> <br/>  
+				   </div>
+				   </div>
+			
+			<br>
+				<div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Suarez</strong><br/>
+				   Jerez 502 (Ensenada) <br/>
+				   Tel.: (0221)4691350 <br/>
+				   Lu a Vi De 8:30 a 12:30 y 16 a 20hs.</p><br/>  
+				   </div>
+				   </div>
+
+			<br>
+				 <div class="col-md-2 ">
+				 <div class="team-info">
+				 <p class="vacunatorio"><strong>Farmacia Mutual Mu.Pe.Si.</strong><br/>
+			   	 Calle 23 Nº 1671 (Veronica) <br/>
+				 Tel.: (0221)480230 <br/>
+				   Lun a sab de 8:30 a 9:30h </p> <br/>
+				 </div>
+				 </div>
+				 					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		
+							<?php
+		}
+		else if($_POST['zona'] == "tandil") {
+			?>
+							   <div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Traverso </strong><br/>
+				   Av. Bolivar 301 (Tandil) <br/>
+				   Tel.: (0249)4440076 <br/>
+				   Lu a Vi de 9 a 12hs. </p> <br/>  
+				   </div>
+				   </div>
+				   					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+							<?php
+		}
+		else if($_POST['zona'] == "marDelPlata") {
+			?>
+			
+					 <div class="col-md-2" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Farmacia Canessa</strong><br/>
+				  Av. Juan B. Justo 494.(Mar del Plata)<br/>
+				   Tel.: (0223)-4801616 <br/>
+                   Lun a Vie de 9 a 16h</p> <br/>         
+				   </div>
+				  </div>
+				  <div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia DIBA Mar del Plata</strong><br/>
+				   Belgrano 2737<br/>
+				   Tel.: (0223) 491-3179 <br/>
+                   Lun a Vie e 8 a 20h </p> <br/>  
+				   </div>
+				   </div>
+				   					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+				 
+									<?php
+		}
+		else if($_POST['zona'] == "puertoBelgrano") {
+			?>
+			
+					
+				   <div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Hospital Naval Pto. Belgrano</strong><br/>
+				   Base Naval Pto. Belgrano <br/>
+				   Tel.: (02932)48-9548 / 48-9669 <br/>
+                   Lun Jue y Vie de 7:30 a 13h </p> <br/>  
+				   </div>
+				   </div>
+
+			<br>
+							   <div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Pique</strong><br/>
+				   San Martin 117 (Bahía Blanca) <br/>
+				   Tel.: (0291)4548770 <br/>
+				   Lu a Vi de 9:30 a 17h </p> <br/>  
+				   </div>
+				   </div>
+				   					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<!------------------------------ INTERIOR DEL PAIS ------------------------------->
+
+		<?php
+		}
+		else if ( $_POST['zona'] == 'idp' ) {
+		?>
+		<br>
+
+		
+
+
+		<br><br>
+		<form action="index.php" method="post">
+			<input type="radio" name="zona" value="cordoba">Cordoba<br>
+            <input type="radio" name="zona" value="chaco">Chaco<br>
+            <input type="radio" name="zona" value="chubut">Chubut<br>
+			<input type="radio" name="zona" value="corrientes">Corrientes<br>
+			<input type="radio" name="zona" value="entreRios">Entre Rios<br>
+            <input type="radio" name="zona" value="lapampa">La Pampa<br>
+			<input type="radio" name="zona" value="mendoza">Mendoza<br>
+			<input type="radio" name="zona" value="misiones">Misiones<br>
+			<input type="radio" name="zona" value="salta">Salta<br>
+			<input type="radio" name="zona" value="sanJuan">San Juan<br>
+			<input type="radio" name="zona" value="sanLuis">San Luis<br>
+			<input type="radio" name="zona" value="santaFe">Santa Fe<br>
+			<input type="radio" name="zona" value="tucuman">Tucuman<br>
+			<br>
+			<p><input type="submit" value="Consultar"/></p>
+            
+<div class="col-md-12">		
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+</div>
+ </form>
+ 
+ 	<?php
+		}
+		else if ( $_POST['zona'] == 'chubut' ) {
+		?>
+		
+				<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA Comodoro Rivadavia</strong><br/>
+				   Av. Hipolito Irigoyen 595(Comodoro Rivadavia)<br/>
+				   Tel.: (0297) 446-4852 <br/>
+                   Lun a Vie de 9 a 15h </p><br/>
+				   </div> 
+				</div>
+               									<form>
+<div class="col-md-12">
+  <input type="button" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+ 
+ 		<?php
+		}
+		else if ( $_POST['zona'] == 'lapampa' ) {
+		?>
+		
+				<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA Santa Rosa </strong><br/>
+				   Carlos Pellegrini 486 (Santa Rosa)<br/>
+				   Tel.: (02954) 443-4217 <br/>
+                   Lun a Vie de 8 a 12:30h /17 a 20:30h </p><br/>
+				   </div> 
+				</div>
+               									<form>
+<div  class="col-md-12">
+  <input type="button" class="volver"  value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+ 		<?php
+		}
+		else if ( $_POST['zona'] == 'chaco' ) {
+		?>
+		
+				<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia General Paz </strong><br/>
+				   Santa Fe 134 (Resistencia)<br/>
+				   Tel.: (0362) 445-1962 <br/>
+                   Lun a Vie de 8 a 16h </p><br/>
+				   </div> 
+				</div>
+               									<form>
+<div class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+ 
+ 
+		<?php
+		}
+		else if ( $_POST['zona'] == 'mendoza' ) {
+		?>
+		
+				<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA Hosp. Mil. Mendoza</strong><br/>
+				   Boulogne Sur Mer 1700 (Mendoza)<br/>
+				   Tel.: (0261) 423-2105 <br/>
+                   Lun a Vie de 8:30 a 16:30h </p><br/>
+				   </div> 
+				</div>
+                <div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>CIPPI</strong><br/>
+				   Av. Colon 284 (Mendoza)<br/>
+				   Tel.: (0261) 423-9051 <br/>
+                   Lun a Vie de 8 a 20h </p><br/>
+				   </div> 
+				</div> 
+									<form>
+<div  class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'tucuman' ) {
+		?>
+		
+				<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>CEIVAC</strong><br/>
+				   San Juan 885 San Miguel de Tucumán (Tucumán)<br/>
+				   Tel.: (0381) 4221390  <br/>
+                   Lun a Vie de 9 a 13h / 16:30 a 20:30h <br/>
+                   Sab 9:30 a 13h </p><br/>
+				  </div> 
+				</div>
+									<form>
+<div  class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'salta' ) {
+		?>
+		
+				<div class="col-md-2">
+				<div class="team-info">
+				<p class="vacunatorio"><strong>Farmacia IOSFA Salta</strong><br/>
+				 Mitre 685 <br/>
+				 Tel.: (0387) -421-1672 <br/>
+                 Lun a Vie de 8:30 a 12:30h / 17:30 a 20:30h </p><br/>
+				</div> 
+				</div>
+				<div class="col-md-2">
+				<div class="team-info">
+				<p class="vacunatorio"><strong>Fcia San Francisco</strong><br/>
+				 Dean Funes 596 (Salta)<br/>
+				 Tel.: 0387-4225622 <br/>
+                 Lun a Vie de 8 a 23h <br/> Sab de 10 a 14h </p><br/>
+				</div> 
+				</div>
+									<form>
+<div  class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'entreRios' ) {
+		?>
+		
+
+				   <div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA Paraná </strong><br/>
+				   E. Bavio 233 (Paraná)<br/>
+				   Tel.:(0343)421-7242<br/>
+                   Lun a Vie 7:30 a 15:30h </p><br/>
+				  </div> 
+				</div>
+						<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Mater</strong><br/>
+				   Alem 947 (Paraná)<br/>
+				   Tel.: (0343) 4310859 <br/>
+				   Lu a Vi 9 a 12 /17 a 19h 
+				  </p><br/>
+				   </div> 
+				</div>
+                	<div class="col-md-2">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Mater II</strong><br/>
+				   Santos Dominguez (Paraná)<br/>
+				   Tel.: (0343) 434-8153 <br/>
+				   Lu a Vi 9 a 12 /17 a 19h 
+				  </p><br/>
+				   </div> 
+				</div>
+									<form>
+<div  class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'santaFe' ) {
+		?>
+		
+			   <div class="col-md-2">
+				<div class="team-info">
+				 <p class="vacunatorio"><strong>Farmacia Luz y Fuerza</strong><br/>
+				   9 de Julio 2682 (Santa Fe)<br/>
+				   Tel.: (0342)4520074 <br/>
+                   Lun Mie Jue y Vie de 16 a 20h / Mar de 8 a 12h </p><br/>  
+				  </div>
+				   </div>
+                   
+                   <div class="col-md-2">
+				<div class="team-info">
+				 <p class="vacunatorio"><strong>Farmacia Laura Gomez</strong><br/>
+				   Bv. Rondeau 125 (Rosario)<br/>
+				   Tel.: (0341)455-7370 <br/>
+                   Lun Mar y Mie de 15 a 21h / Ju y Vi de 8 a 14h </p><br/>  
+				  </div>
+				   </div>
+                   
+                   <div class="col-md-2">
+				<div class="team-info">
+				 <p class="vacunatorio"><strong>Farmacia Troncoso </strong><br/>
+				 Santa Fe 2076 (Rosario)<br/>
+				   Tel.: (0341)449-1999 <br/>
+                   Lun a Vie de 8:30 a 12:30h / 16 a 20h </p><br/>  
+				  </div>
+				   </div>
+				
+									<form>
+<div class="col-md-12">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+
+		<?php
+		}
+		else if ( $_POST['zona'] == 'sanLuis' ) {
+		?>
+		
+				<div class="col-md-2">
+				  <div class="team-info">
+					<p class="vacunatorio"><strong>Fcia Maria Auxiliadora</strong><br/>
+					  Av. España 546 (San Luis)<br/>
+					  Tel.: (0266)4420907 <br/>
+					  Lu  Vi 8:30 a 13 y de 17 a 21hs.</p><br/>
+				  </div>
+				</div>
+									<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'sanJuan' ) {
+		?>
+		
+				<div class="col-md-2">
+				  <div class="team-info">
+					<p class="vacunatorio"><strong>Farmacia Cuyo</strong><br/>
+					  Av. Lib. San Martin O 2918(San Juan)<br/>
+					  Tel.: (0264)4231133<br/>
+					  Lu a Sab de 8 a 24hs </p><br/>
+				  </div>
+				</div>
+					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'corrientes' ) {
+		?>
+		
+				<div class="col-md-2" >
+				  <div class="team-info">        
+				  <p class="vacunatorio"><strong>Farmacia Catedral</strong><br/>
+					San Lorenzo 919.(Corrientes)<br/>
+				   Tel.: (0379)4429347 <br/>
+				   Lu a Vi 8 a 12 y de 18 a 21 h <br/>
+                   Sab de 8 a 12h </p><br/>         
+				  </div>
+				</div>
+					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'cordoba' ) {
+		?>
+		
+				<div class="col-md-3">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Gral. Paz Central</strong><br/>
+				   24 de Septiembre 802 (Córdoba)<br/>
+				   Tel.: (0351)4210039<br/>
+				   Lu a Vi 8:30 a 20h </p><br/>
+				   </div> 
+				</div> 
+					<div class="col-md-3">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Gral. Paz Centro</strong><br/>
+				   Colon 745 (Córdoba)<br/>
+				   Tel.: (0351)4243808<br/>
+				   Lu a Vi 10 a 18h </p><br/>
+				   </div> 
+				</div> 
+                <div class="col-md-3">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia Gral. Paz Centro</strong><br/>
+				   Tucuman 496 Esq. Humberto 1 (Córdoba)<br/>
+				   Tel.: (0351)42-3807<br/>
+				   Lu a Vi 8 a 20h <br/>
+                   Sab de 8:30 a 13:30h. </p><br/>
+				   </div> 
+				</div> 
+						<div class="col-md-3">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia IOSFA Córdoba </strong><br/>
+				   Alvear 164 (Córdoba)<br/>
+				   Tel.: (0351)422-0983 <br/>
+                   Lu a Vi 8:30 a 16:30h</p><br/>
+				   </div> 
+				</div>
+					<form>
+                   <div class="col-md-10" >
+                  <input type="button" value="Volver" name="Back2" onClick="history.back()" />
+                  </div>
+  </form>
+		<?php
+		}
+		else if ( $_POST['zona'] == 'misiones' ) {
+		?>
+		
+				 <div class="col-md-2 ">
+				   <div class="team-info">
+				   <p class="vacunatorio"><strong>Farmacia General Paz I</strong><br/>
+				   San Martin 2225 (Posadas)<br/>
+				   Tel.:(0376)442-7222<br/>
+				   Lu a Vi 8 a 13h </p> <br/> 
+				   </div> 
+				</div>
+					<form>
+<div align="center">
+  <input type="button" class="volver" value="Volver" name="Back2" onClick="history.back()" />
+  </div>
+ </form>
+ <?php
+ }}}
+ ?>
+  
+      </div>
+
+    </div>
+    </section> 
+    
+    
+       
+    
+<section id="requisitos" style="margin-top:0; "> 
+     <div class="container"> 
+	       <h3 class="text-center">Requisitos </h3> 
+     <div class="row">
+           <h6 class="text-center">¿Qué debo presentar en cada caso en el vacunatorio o farmacias que cuenten con gabinete de aplicación de inyectables habilitado?</h6> <br/> <br/>
+           
+<p> 
+<img src="img/mayor.png" align="left" style="margin-left:25px; padding-right:25px;"> <strong> Mayores de 65 años: </strong> Deben presentar la Credencial IOSFA y  Documento de Identidad.  No es necesaria la orden médica. 
+</p>
+
+<p> 
+<img src="img/nene.png" align="left" style="margin-left:25px; padding-right:25px;">  <strong> Niños de 6 a 24 meses: </strong> Deben presentar la Credencial IOSFA y  Documento de Identidad.  No es necesaria a orden médica.
+</p>
+
+<p> 
+<img src="img/embarazada.png" align="left" style="margin-left:25px; padding-right:25px;"> <strong> Embarazadas (cualquier período): </strong> Deberán presentar certificado de embarazo en curso ó fotocopia del Plan Materno Infantil de la madre y Credencial IOSFA.  No es necesaria la orden médica. 
+</p>
+<p> 
+<img src="img/bebes.png" align="left" style="margin-left:25px; padding-right:25px;"> <strong> Madres de niños de hasta 10 días: </strong> Deberán presentar fotocopia del DNI del niño ó fotocopia de Certificado de Nacimiento ó fotocopia del Plan Materno Infantil del niño y Credencial IOSFA de la madre.  No es necesaria la orden médica.
+</p>
+<p> 
+<img src="img/autoinmu.png" align="left" style="margin-left:25px; padding-right:25px;"><strong> Grupos de riesgo: </strong> Incluyen a quienes padezcan Diabetes, Asma, EPOC, Inmunosuprimidos, Insuficiencia Renal crónica, Trasplantados, etc.  Deberán presentar una orden del médico (no es necesario autorizarla) y Credencial IOSFA. 
+</p>
+         
+	  </div>
+  </div>
+ </section> 
+ 
+ <!----->
+  <section id="pre-frec" style="margin-top:0; background:#f4f4f4">
+     <div class="container">
+	  <h3 class="text-center">Preguntas Frecuentes</h3> <br/>
+      <div class="row">
+      <p><strong> ¿Por qué es importante vacunarse? </strong> <br/>
+
+La gripe es una típica enfermedad del invierno que suele ser muy generalizada y sus complicaciones pueden llegar a ser graves. Es por ello que la Organización Mundial de la Salud (OMS) recomienda la vacunación entre las poblaciones compuestas por personas mayores de 65 años y grupos de riesgo. </p>
+
+<p> <strong> ¿Cuándo se realizará la Campaña de Vacunación de IOSFA? </strong><br/>
+
+Se llevará a cabo entre el 22/04 y el 31/05. Esa época es la ideal para vacunarse ya que el organismo genera los anticuerpos en cantidad óptima para enfrentar el pico de gripe que suele darse a principios de junio.  </p>
+
+<p> <strong> ¿Cómo hay que proceder para vacunarse? </strong> <br/>
+
+Tenés que acercarte a los vacunatorios (LINK) que contrató IOSFA. Estos se ubican en las localidades de mayor concentración de afiliados. </p>
+
+<p> <strong>  Si en la zona donde vivís no hay vacunatorio podés: </strong> <br/>
+
+- Acercarte con la receta IOSFA o un Rp. a la Delegación más próxima a fin de obtener la autorización con cobertura al 100%, para luego adquirirla en la Farmacia propia o convenida.  <br/>
+
+-En caso de no contar con una Farmacia propia o convenida en la zona, podés comprarla y solicitar el reintegro correspondiente en las <a href="https://www.iosfa.gob.ar/mapaoficinas.html" target="_blank"> delegaciones </a> presentando el ticket, el troquel de la vacuna además de lo solicitado en el ítem <a href="#requisitos">“Requisitos”. </a> <br/>
+
+En ambos casos será reconocida cualquier marca comercial autorizada por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica) para la temporada 2019. <br/>
+
+<p> <strong> ¿Si no estás dentro de los grupos de riesgo o recomendados, qué cobertura tiene la vacuna? </strong><br/>
+
+Si no estás dentro de grupos de riesgo, podés adquirir la vacuna con un 60% de cobertura en farmacias propias y un 50% en farmacias convenidas desde la fecha de inicio de la campaña hasta el 30 de septiembre inclusive (LINK https://iosfa.gob.ar/mapafarmacias.html). Para ésta opción tenés que presentar la receta (IOSFA o el Rp.) con la prescripción de tu médico. Será reconocida cualquier marca comercial autorizada por la ANMAT (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica) para la temporada 2019. </p>
+
+<p> <strong> ¿Tiene algún costo la vacuna o la aplicación? </strong> <br/>
+
+En los lugares donde hay vacunatorio, tanto la vacuna como la aplicación son gratuitas para los grupos establecidos en esta campaña. </p>
+
+<p> <strong> ¿Si estás resfriado, te podés vacunar? </strong><br/>
+
+Si se presenta algún problema de salud, es mejor que consultes con tu médico sobre la conveniencia de la aplicación de la vacuna. </p>
+
+	  </div>
+        </div>
+    </section>
+ 
+ <p></p>
+  <!------>   
+    
+     <div class="container" id="consultas">
+	  <h3 class="text-center" > Consultas  </h3> <br/>
+      <div class="row">
+	<p style=" text-align:center">Para consultas sobre la Campaña de Vacunación Antigripal, podés llamar al 0800-222-3300 o completar nuestro <a href="https://www.iosfa.gob.ar/contacto.html " target="_blank" >formulario de contacto.</a>  </p>  
+      </div>
+      </div>
+      
+    </section>
+    
+  
+    
+  
+    
+    
+  <!------>   
+
+<footer class="footer-iosfa">
+            <div class="container">
+            	<div class="row">
+               		
+                    <div class=" col-md-4 col-xs-4">                
+                    </div>
+                    <div class=" col-md-4 col-xs-4"> 
+                    <p class="centro" align="center"><strong>Estamos con vos</strong> </p>  
+                    <p class="centro" align="center"><a href="http://www.facebook.com/IOSFA"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/IOSFAoficial"><i class="fa fa-twitter"></i></a></p>
+                    </div>
+                    <div class=" col-md-4 col-xs-4">
+                    
+                    <p class="logo" align="right"><a href="http://iosfa.gob.ar"><img src="img/ic_IOSFAfooter.png" alt="Imagen de logo IOSFA"/></a></p>
+                    </div>
+              
+               </div>
+            </div>
+    </footer>
+        <footer class="mindef">
+        <div class="container">
+       	<p><img src="img/lg_MinDef.png" alt="Imagen de logo de Ministerio de Defensa"/></p>
+	    </div>
+		</footer>
+      
+   
+ 
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-top d-lg-none">
+      <a class="btn btn-primary js-scroll-trigger" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+    
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+	<script src="https://unpkg.com/popper.js/dist/umd/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact Form JavaScript 
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script> -->
+
+    <!-- Custom scripts for this template -->
+    <script src="js/freelancer.min.js"></script>
+    
+
+<style>
+
+.caja { margin-top:10px;
+background-color: #E2E2E2;
+border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 1px solid #b8b8b8;
+}
+
+.tit {text-align:center; }
+
+.vacunatorio{ font-size:16px;
+		}
+		
+.cajitas{
+	
+}
+.volver{ color:#fff;
+		border-color:#ade2ce;
+		background-color:#ade2ce;
+        text-align:center; }	
+		
+</style>
+    
+    
+    
+    
+
+</body>
+
+</html>
